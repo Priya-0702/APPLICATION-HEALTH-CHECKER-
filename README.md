@@ -26,6 +26,7 @@ def check_application_status(url):
 
 if __name__ == "__main__":
     # Example URL to check
+    
     application_url = "https://play.google.com/store/apps/details?id=com.ril.ajio"
     
     # Check the status of the application
